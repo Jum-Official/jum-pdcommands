@@ -13,3 +13,5 @@ The resource has been tested ONLY on QBCore Framework
 
 - QBCore compatible
 - Optimized for low CPU usage
+
+[Jum Official](https://discord.gg/H2awvk7QJs)
